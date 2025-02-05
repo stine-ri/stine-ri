@@ -40,9 +40,9 @@ I'm a passionate full-stack developer dedicated to crafting impactful and innova
 ## 📌 Projects  
 
 - [🚗 Dream dealer (Vehicle Rental Management System)](https://dream-dealer-1dol.vercel.app/)  
-- [🤖 Comprehensive mental Health Chatbot]([https://health-tyak.vercel.app/])  
-- [🛍️ Riya Collection System]([https://to-do-app-eight-mocha.vercel.app/])  
-- [🚗 Stine Rental]([https://car-rental-frontend-liard.vercel.app/])  
+- [🤖 Comprehensive mental Health Chatbot](https://health-tyak.vercel.app/)  
+- [🛍️ Riya Collection System](https://to-do-app-eight-mocha.vercel.app/)  
+- [🚗 Stine Rental](https://car-rental-frontend-liard.vercel.app/)  
 
 ---
 
