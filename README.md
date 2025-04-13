@@ -15,22 +15,36 @@
 
 ---
 
-## **🛠️ Tech Stack**  
+## **🛠️ Tech Stack**   
 
 ### **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)  
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui)  
+![MaterialUI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui)  
 
-### **Backend**  
+
+### **Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)  
 ![Hono.js](https://img.shields.io/badge/Hono.js-FF6600?style=flat)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)  
+![DrizzleORM](https://img.shields.io/badge/Drizzle_ORM-FF9A00?style=flat&logo=postgresql)  
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)  
+
+### **Payment & Services**  
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe)  
+![M-Pesa](https://img.shields.io/badge/M_Pesa-FF6600?style=flat&logo=mpesa)   
 
 ### **Tools & DevOps**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render)
 
 ---
 
