@@ -65,7 +65,7 @@
 |---------|------------|------------|-----------|  
 | **[🚗 Dream Dealer](https://dream-dealer-1dol.vercel.app/)** | Vehicle rental management system | React, Node.js, PostgreSQL | [Live](https://dream-dealer-1dol.vercel.app/) |  
 | **[🤖 Mental Health Chatbot](https://ai-mental-health-frontend.vercel.app/)** | AI-powered mental health assistant | React, Hono.js, OpenAI | [Live](https://ai-mental-health-frontend.vercel.app/) |  
-| **[🛍️ Riya Collection](https://to-do-app-eight-mocha.vercel.app/)** | E-commerce management system | React, TailwindCSS | [Live](https://to-do-app-eight-mocha.vercel.app/) |  
+| **[🛍️ Riya Collection](https://to-do-app-eight-mocha.vercel.app/)** | E-commerce management system | React, TailwindCSS | [Live](https://gis-analytics-uk-test-frontend.vercel.app/) |  
 
 ---
 
