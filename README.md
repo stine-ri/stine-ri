@@ -1,58 +1,68 @@
-# Hi there 👋, I'm Christine Nyambwari  
+# **👋 Hi, I'm Christine Nyambwari**  
+### **🚀 Full-Stack Developer | Passionate about Building Impactful Solutions**  
 
-## 🚀 Full-Stack Software Developer  
-
-I'm a passionate full-stack developer dedicated to crafting impactful and innovative solutions. I specialize in both frontend and backend technologies, continuously learning and improving my skills.  
-
-🌱 Currently enhancing my expertise in web development while building exciting personal projects.  
-🔧 Learning advanced full-stack concepts with React, Node.js, PostgreSQL, and more.  
+[![GitHub Followers](https://img.shields.io/github/followers/stine-ri?style=social)](https://github.com/stine-ri)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christine-nyambwari-8b465b2a9)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat)](https://christine-portfolio-red.vercel.app/)  
 
 ---
 
-## 🛠 Tech Stack & Skills  
-
-### Frontend  
-- **Languages & Frameworks**: React.js, TypeScript, JavaScript, HTML, CSS  
-- **State Management**: Redux  
-- **Styling**: CSS Modules, Tailwind CSS, Daisy UI  
-
-### Backend  
-- **Frameworks & Libraries**: Hono.js, Node.js  
-- **Database & ORM**: PostgreSQL, Drizzle ORM  
-- **API Development**: RESTful APIs, Hono.js  
-
-### Tools & Other Skills  
-- **Version Control**: Git, GitHub  
-- **Deployment & CI/CD**: Vercel, Netlify  
-- **Payment Integration**: Stripe  
-- **Backend Email & Automation**: Nodemailer, Node-cron  
-- **Design**: Figma  
+## **✨ About Me**  
+💻 **Full-Stack Developer** specializing in **React, Node.js, and PostgreSQL**.  
+🌱 **Currently learning:** Advanced backend concepts, cloud deployment, and performance optimization.  
+🔧 **Passionate about:** Clean code, scalable architecture, and open-source contributions.  
+⚡ **Fun Fact:** I love problem-solving and automating repetitive tasks!  
 
 ---
 
-## 🔥 GitHub Stats  
+## **🛠️ Tech Stack**  
 
-![Christine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stine-ri&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stine-ri&layout=compact&theme=tokyonight)  
+### **Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)  
 
----
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)  
+![Hono.js](https://img.shields.io/badge/Hono.js-FF6600?style=flat)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)  
 
-## 📌 Projects  
-
-- [🚗 Dream dealer (Vehicle Rental Management System)](https://dream-dealer-1dol.vercel.app/)  
-- [🤖 Comprehensive mental Health Chatbot](https://ai-mental-health-frontend.vercel.app/)  
-- [🛍️ Riya Collection System](https://to-do-app-eight-mocha.vercel.app/)  
-- [🚗 Stine Rental](https://car-rental-frontend-liard.vercel.app/)  
-
----
-
-## 📫 Contact Me  
-
-📧 Email: [christinenyambwari@gmail.com]  
-🔗 Portfolio: [(https://christine-portfolio-red.vercel.app/)]  
-💼 LinkedIn: [https://www.linkedin.com/in/christine-nyambwari-8b465b2a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
-📂 GitHub: [https://github.com/stine-ri](https://github.com/stine-ri)  
+### **Tools & DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)  
 
 ---
 
-### 🎯 Let's connect and build amazing projects together! 🚀
+## **📊 GitHub Stats**  
+
+<div align="center">  
+
+![Christine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stine-ri&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stine-ri&layout=compact&theme=tokyonight&hide_border=true)  
+
+</div>  
+
+---
+
+## **🔥 Featured Projects**  
+
+| Project | Description | Tech Stack | Live Demo |  
+|---------|------------|------------|-----------|  
+| **[🚗 Dream Dealer](https://dream-dealer-1dol.vercel.app/)** | Vehicle rental management system | React, Node.js, PostgreSQL | [Live](https://dream-dealer-1dol.vercel.app/) |  
+| **[🤖 Mental Health Chatbot](https://ai-mental-health-frontend.vercel.app/)** | AI-powered mental health assistant | React, Hono.js, OpenAI | [Live](https://ai-mental-health-frontend.vercel.app/) |  
+| **[🛍️ Riya Collection](https://to-do-app-eight-mocha.vercel.app/)** | E-commerce management system | React, TailwindCSS | [Live](https://to-do-app-eight-mocha.vercel.app/) |  
+
+---
+
+## **📬 Let’s Connect!**  
+
+📧 **Email:** [christinenyambwari@gmail.com](mailto:christinenyambwari@gmail.com)  
+🌐 **Portfolio:** [christine-portfolio-red.vercel.app](https://christine-portfolio-red.vercel.app/)  
+💼 **LinkedIn:** [Christine Nyambwari](https://www.linkedin.com/in/christine-nyambwari-8b465b2a9)  
+💻 **GitHub:** [stine-ri](https://github.com/stine-ri)  
+
+---
+
+### **🚀 Open to Collaborations & New Opportunities!**  
+Let’s build something amazing together! 😊  
