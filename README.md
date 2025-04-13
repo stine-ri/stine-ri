@@ -40,7 +40,7 @@ I'm a passionate full-stack developer dedicated to crafting impactful and innova
 ## 📌 Projects  
 
 - [🚗 Dream dealer (Vehicle Rental Management System)](https://dream-dealer-1dol.vercel.app/)  
-- [🤖 Comprehensive mental Health Chatbot](https://health-tyak.vercel.app/)  
+- [🤖 Comprehensive mental Health Chatbot]((https://ai-mental-health-frontend.vercel.app/))  
 - [🛍️ Riya Collection System](https://to-do-app-eight-mocha.vercel.app/)  
 - [🚗 Stine Rental](https://car-rental-frontend-liard.vercel.app/)  
 
@@ -49,7 +49,7 @@ I'm a passionate full-stack developer dedicated to crafting impactful and innova
 ## 📫 Contact Me  
 
 📧 Email: [christinenyambwari@gmail.com]  
-🔗 Portfolio: [https://portfolio-frontend-iota-virid.vercel.app]  
+🔗 Portfolio: [(https://christine-portfolio-red.vercel.app/)]  
 💼 LinkedIn: [https://www.linkedin.com/in/christine-nyambwari-8b465b2a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 📂 GitHub: [https://github.com/stine-ri](https://github.com/stine-ri)  
 
